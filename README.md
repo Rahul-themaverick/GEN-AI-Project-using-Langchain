@@ -37,5 +37,7 @@ streamlit run main.py
 - The FAISS index will be saved in a local file path in pickle format for future use.
 - One can now ask a question and get the answer based on those news articles
 - I have used the following news articles
+
   -https://www.moneycontrol.com/news/business/markets/these-smallcaps-gain-between-10-33-as-broader-indices-outperform-13596800.html
+
   -https://www.moneycontrol.com/news/business/markets/nse-reduces-f-o-lot-sizes-for-nifty-50-and-three-other-indices-from-october-28-13597333.html
