@@ -3,6 +3,7 @@
 # Readify: Web Research Tool 
 
 Readify is a user-friendly web research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the any articles.
+![](Screenshot-01.png)
 
 # Features
 
